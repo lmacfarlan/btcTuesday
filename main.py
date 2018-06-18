@@ -3,7 +3,7 @@
 #   at scale on a user-defined schedule, taking advantage of        #
 #   Metis Machine curated data, and external 3rd party data.        #
 #   Attempting to use VASI for the first time #
-#
+
 
 ## Import some needed dependencies
 import os
